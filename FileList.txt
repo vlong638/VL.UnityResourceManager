@@ -1,3 +1,10 @@
 \Resources
-\Resources\Floor
-\Resources\Floor\Floors.png
+\Resources\Prefabs
+\Resources\Prefabs\UI
+\Resources\Prefabs\UI\Prefab_Button_PauseMenu_Normal.prefab
+\Resources\Prefabs\UI\Prefab_Button_StartMenu_MiniButton.prefab
+\Resources\Prefabs\UI\Prefab_Button_StartMenu_Normal.prefab
+\Resources\Prefabs\UI\Prefab_Canvas_StartMenu_Declaration.prefab
+\Resources\Sprites
+\Resources\Sprites\Background.png
+\Resources\Sprites\Floors.png
